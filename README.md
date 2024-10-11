@@ -1,3 +1,3 @@
-# This is a webscrapping project.
+# WEBSCRAPPING PROJECT.
 
-## I used "https://dixcoverhub.com.ng/" as practical
+## I scrapped "https://dixcoverhub.com.ng/" using selenium python module
